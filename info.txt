@@ -1,0 +1,1 @@
+This file has been added because I do not fully understand wheather I should use my repository from early beginnings or last exercise (7.3). Last tag of exercise 7.3 was "task-3-finished". 
