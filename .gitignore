@@ -90,5 +90,6 @@ typings/
 test.html
 .sass-cache
 style.css.map
+style.css
 style.prefixed.css.map
 package-lock.json
